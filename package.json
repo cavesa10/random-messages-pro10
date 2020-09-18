@@ -14,10 +14,19 @@
   "author": "carlos vesga",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
   "preferGlobal": true,
   "dependencies": {
     "user": "0.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cavesa10/random-messages-pro10.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cavesa10/random-messages-pro10/issues"
+  },
+  "homepage": "https://github.com/cavesa10/random-messages-pro10#readme"
 }
