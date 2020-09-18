@@ -1,0 +1,23 @@
+{
+  "name": "random-messages-pro10",
+  "version": "1.0.0",
+  "description": "random de mensajes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "carlos vesga",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "0.0.0"
+  }
+}
